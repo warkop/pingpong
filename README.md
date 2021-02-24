@@ -1,0 +1,2 @@
+# pingpong
+praktek go konkurensi
